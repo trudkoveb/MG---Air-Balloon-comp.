@@ -1,0 +1,119 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-icon-about-airport-plane {
+    width: 62px;
+    height: 62px;
+    background-position: -5px -5px;
+}
+
+.sprite-icon-about-internet-mail {
+    width: 23px;
+    height: 17px;
+    background-position: -77px -5px;
+}
+
+.sprite-icon-about-location-marker {
+    width: 35px;
+    height: 50px;
+    background-position: -110px -5px;
+}
+
+.sprite-icon-advantages-binoculars {
+    width: 72px;
+    height: 34px;
+    background-position: -155px -5px;
+}
+
+.sprite-icon-advantages-camera {
+    width: 65px;
+    height: 50px;
+    background-position: -155px -49px;
+}
+
+.sprite-icon-advantages-glasses {
+    width: 75px;
+    height: 28px;
+    background-position: -5px -109px;
+}
+
+.sprite-icon-advantages-like {
+    width: 56px;
+    height: 58px;
+    background-position: -90px -109px;
+}
+
+.sprite-icon-gallery-left-arrow {
+    width: 20px;
+    height: 33px;
+    background-position: -77px -49px;
+}
+
+.sprite-icon-gallery-left-arrow-dark {
+    width: 20px;
+    height: 33px;
+    background-position: -156px -109px;
+}
+
+.sprite-icon-gallery-right-arrow {
+    width: 20px;
+    height: 33px;
+    background-position: -186px -109px;
+}
+
+.sprite-icon-gallery-right-arrow-dark {
+    width: 20px;
+    height: 33px;
+    background-position: -5px -152px;
+}
+
+.sprite-icon-info-price-form-name {
+    width: 15px;
+    height: 15px;
+    background-position: -216px -109px;
+}
+
+.sprite-icon-info-price-form-tel {
+    width: 19px;
+    height: 19px;
+    background-position: -35px -152px;
+}
+
+.sprite-icon-main-title-arrow {
+    width: 18px;
+    height: 29px;
+    background-position: -156px -152px;
+}
+
+.sprite-icon-question-mark {
+    width: 40px;
+    height: 34px;
+    background-position: -184px -152px;
+}
+
+.sprite-icon-workers-glasses {
+    width: 104px;
+    height: 39px;
+    background-position: -35px -191px;
+}
+
+.sprite-icon-workers-radio {
+    width: 38px;
+    height: 89px;
+    background-position: -237px -5px;
+}
+
+.sprite-icon-workers-tools {
+    width: 71px;
+    height: 71px;
+    background-position: -149px -196px;
+}
+
+.sprite-icon_flight-info-balloon {
+    width: 44px;
+    height: 65px;
+    background-position: -234px -134px;
+}
